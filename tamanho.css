@@ -1,0 +1,45 @@
+@media screen and (max-width: 600px) {
+
+
+    .main .header {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .sections {
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .sections section{
+        display: flex;
+        flex-direction: column;
+        border: solid 1px #fff;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 460px) {
+
+    body {
+        background-image: url(/img/00cad210bcce0c6b27c44f06c83fc87b.jpg);
+        background-repeat: no-repeat;
+
+    }
+
+    img {
+        position: relative;
+        top: 500px;
+    }
+
+}
